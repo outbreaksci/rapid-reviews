@@ -16,7 +16,7 @@ And spread the word. Tweet and talk about your preprints and your rapid reviews.
 
 **Developers**
 
-We are looking forward to contributions! But... we're not quite ready yet. Please check back.
+We are looking forward to contributions! But... we're not quite ready yet. Stay tuned and send ideas via Twitter [@outbreaksci](https://twitter.com/outbreaksci). 
 
 ## Code of Conduct
 
