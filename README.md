@@ -1,6 +1,6 @@
 # Rapid Reviews for [Outbreak Science](http://outbreakscience.org)
 
-Outbreaks demand quick responses informed by evolving evidence. Scientists can now share their research faster than ever with preprint manuscripts. This allows rapid, open dissemination of data, code, and results. Yet preprints are not peer reviewed, so finding the most important preprints can be challenging.
+Outbreaks demand quick responses informed by evolving evidence. Scientists can now share their research [faster than ever](https://doi.org/10.1371/journal.pmed.1002549) with preprint manuscripts. This allows rapid, open dissemination of data, code, and results. Yet preprints are not peer reviewed, so finding the most important preprints can be challenging.
 
 We’re trying to make that easier. We're developing open tools for scientists to provide immediate reviews on preprints they read. Rapid reviews can help officials and scientists find important scientific advances faster. And fast, high-quality information can help us all fight outbreaks.
 
