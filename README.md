@@ -14,10 +14,6 @@ Help us get going by submitting reviews. Reading papers takes time, but rapid re
 
 And spread the word. Tweet and talk about your preprints and your rapid reviews.
 
-**Developers**
-
-We are looking forward to contributions! But... we're not quite ready yet. Stay tuned and send ideas via Twitter [@outbreaksci](https://twitter.com/outbreaksci). 
-
 ## Code of Conduct
 
 We value an open and welcoming environment. By participating, you agree to abide by our [Code of Conduct](Code_of_Conduct.md). 
